@@ -1,5 +1,7 @@
 # 2022 FIFA World Cup: Sentiment Analysis
 
+![soccer](https://github.com/Mr-Chang95/FIFA-Sentiment-Analysis/assets/92649864/44a8831c-651f-44e6-bc31-d05af433007d)
+
 ## About Dataset
 Football is one of the most loved sports worldwide. The FIFA World Cup, a global football sporting event that takes place every four years, is in Qatar in the year, 2022. This dataset contains 30,000 tweets from the first day of the FIFA World Cup 2022 and primarily contains tweets in English containing the hashtag #WorldCup2022.
 
