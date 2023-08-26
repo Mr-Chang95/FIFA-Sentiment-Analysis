@@ -20,7 +20,27 @@ The objective of this data science project is to conduct sentiment analysis on t
 - Marketing Teams: Marketing teams can adjust their strategies in real-time based on the sentiment analysis results to maximize engagement and reach.
 
 ## What I did in this project
+1. Data Preprocessing:
 
+    - Each tweet's text will undergo a meticulous preprocessing phase:
+    - Tokenization: Breaking down text into individual words.
+    - Cleaning: Removal of stopwords, URLs, mentions, and hashtags.
+    - Normalization: Applying stemming or lemmatization techniques to standardize words, ensuring consistency in sentiment analysis.
+<br><br>
+2. Data Visualization:
+
+    - Harnessing the power of data visualization, the project will render sentiment insights into tangible and easily digestible formats.
+    - Sentiment distribution plots, word clouds of positive and negative words, and time series sentiment trends during the event will be constructed, enabling stakeholders to glean insights at a glance.
+<br><br>
+3. Sentiment Analysis:
+
+    - The project will employ a sophisticated sentiment analysis model, such as the VADER framework, or alternatively, a machine learning model trained on sentiment-labeled datasets.
+    - By leveraging these models, sentiment scores will be calculated for each tweet, encompassing dimensions of positivity, negativity, neutrality, and an overall sentiment compound score.
+<br><br>   
+4. Insights and Reporting:
+
+    - Comprehensive sentiment trend analyses will be performed, unveiling the ebb and flow of public sentiment across the duration of the World Cup.
+    - By correlating sentiment trends with specific event occurrences such as matches, goals, controversies, and celebratory moments, stakeholders will be equipped with actionable insights.
 
 ## Acknowledgement 
 This dataset was downloaded from Kaggle. In future World Cups, I plan to scrap data from Twitter(now X), using their API.
