@@ -18,3 +18,9 @@ The objective of this data science project is to conduct sentiment analysis on t
 - Sponsors: Sponsors can monitor sentiment to understand the effectiveness of their campaigns and brand perception among fans.
 
 - Marketing Teams: Marketing teams can adjust their strategies in real-time based on the sentiment analysis results to maximize engagement and reach.
+
+## What I did in this project
+
+
+## Acknowledgement 
+This dataset was downloaded from Kaggle. In future World Cups, I plan to scrap data from Twitter(now X), using their API.
