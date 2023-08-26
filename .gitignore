@@ -1,0 +1,4 @@
+fine_tuned_model/
+logs/
+results/
+df2.pt
