@@ -1,4 +1,4 @@
-# 2022 FIFA World Cup: Sentiment Analysis
+# 2022 FIFA World Cup: Sentiment Analysis with RoBERTa and RNN(LTSM)
 
 ![soccer2](https://github.com/Mr-Chang95/FIFA-Sentiment-Analysis/assets/92649864/b0a7e7ac-3445-4e60-baeb-26ce85bec7e0)
 
@@ -37,7 +37,7 @@ The objective of this data science project is to conduct sentiment analysis on t
 3. Sentiment Analysis:
 
     - The project will employ a sophisticated sentiment analysis model, such as the VADER framework, or alternatively, a machine learning model trained on sentiment-labeled datasets.
-    - By leveraging these models, sentiment scores will be calculated for each tweet, encompassing dimensions of positivity, negativity, neutrality, and an overall sentiment compound score.
+    - By leveraging these models, sentiment scores will be calculated for each tweet, encompassing dimensions of positivity, negativity, neutrality, and an overall sentiment compound score. Some models that I used are the RoBERTa and XGBoost models, as well as creating a Neaural Network(LTSM).
   
 4. Insights and Reporting:
 
