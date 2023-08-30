@@ -44,5 +44,11 @@ The objective of this data science project is to conduct sentiment analysis on t
     - Comprehensive sentiment trend analyses will be performed, unveiling the ebb and flow of public sentiment across the duration of the World Cup.
     - By correlating sentiment trends with specific event occurrences such as matches, goals, controversies, and celebratory moments, stakeholders will be equipped with actionable insights.
 
+## Results
+Our best model is the RoBERTa model with an accuracy of 0.91. However, I believe that I can tune the LTSM model to achieve a similair or higher accuracy than the RoBERTa.
+
+Here is the confusion matrix for the RoBERTa Model:
+![RoBERTa_Model](https://github.com/Mr-Chang95/FIFA-Sentiment-Analysis/assets/92649864/950424bc-139d-4d3b-8ba8-b1315f516a3a)
+
 ## Acknowledgement 
 This dataset was downloaded from Kaggle. In future World Cups, I plan to scrap data from Twitter(now X), using their API.
